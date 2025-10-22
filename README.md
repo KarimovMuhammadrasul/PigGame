@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/KarimovMuhammadrasul/PigGame/blob/main/Screenshot%202025-10-22%20140520.png" width="700">
+</p>
+
+
+
 <h1 align="center">🐷 Welcome to the Pig Game 🎲</h1>
 
 
